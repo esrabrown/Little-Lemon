@@ -36,6 +36,8 @@ function App() {
           <li></li>
         </ul>
       </Nav>
+      <Main>
+      </Main>
       <Footer> </Footer>
     </div>
     // <div> Homepage </div>
